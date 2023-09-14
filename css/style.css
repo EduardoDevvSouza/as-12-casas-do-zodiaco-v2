@@ -1,0 +1,22 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+p {
+    color: whitesmoke;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h2 {
+    color: gainsboro;
+}
+img {
+    border-color: blueviolet 20px;
+}
